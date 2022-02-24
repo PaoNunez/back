@@ -53,6 +53,7 @@ class Contenedor {
   }
 }
 
+module.exports = Contenedor;
 const producto1 = {
   title: 'producto 1',
   price: 10,
